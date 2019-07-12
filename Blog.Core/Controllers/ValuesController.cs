@@ -11,7 +11,7 @@ namespace Blog.Core.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        // GET api/values
+        // GET api/values 232323
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
